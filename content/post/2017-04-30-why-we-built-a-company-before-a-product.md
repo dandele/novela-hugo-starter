@@ -14,7 +14,7 @@ Anzi, non solo i product manager, anche tu stesso. 👇👇👇
 
 In breve, Bezos non si concentra su decisioni che possono essere facilmente reversibili, anzi.
 
-/images/risa-bezos-speedball.gif
+![](/images/risa-bezos-speedball.gif)
 
 Secondo **Bezos**, infatti, esistono due tipi di decisioni che ognuno di noi prende ogni giorno:
 
