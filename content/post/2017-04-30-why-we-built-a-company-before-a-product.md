@@ -13,6 +13,8 @@ Anzi, non solo i product manager, anche tu stesso. 👇👇👇
 
 In breve, Bezos non si concentra su decisioni che possono essere facilmente reversibili, anzi.
 
+[https://media.giphy.com/media/gcZoCNhAioOHj9uNQv/giphy.mp4](https://media.giphy.com/media/gcZoCNhAioOHj9uNQv/giphy.mp4 "https://media.giphy.com/media/gcZoCNhAioOHj9uNQv/giphy.mp4")
+
 Secondo Bezos, infatti, esistono due tipi di decisioni che ognuno di noi prende ogni giorno:
 
 * Decisioni di tipo 1: quelle decisioni che non garantiscono la possibilità di tornare sui propri passi. Si tratta di quelle decisioni che ti fanno “bruciare i ponti”, una volta prese, non si torna più indietro.
