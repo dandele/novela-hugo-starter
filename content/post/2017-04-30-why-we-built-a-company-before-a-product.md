@@ -4,7 +4,8 @@ date: 2017-04-30
 hero: ''
 excerpt: ''
 timeToRead: 3
-authors: []
+authors:
+- Daniele D'Amico
 
 ---
 Jeff Bezos non è un product manager, almeno non tecnicamente, ma utilizza un framework di decision making da cui tutti i product manager potrebbero trarre beneficio.
