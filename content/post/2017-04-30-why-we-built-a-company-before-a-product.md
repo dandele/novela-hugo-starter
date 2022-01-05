@@ -17,7 +17,9 @@ In breve, Bezos non si concentra su decisioni che possono essere facilmente reve
 
 [giphy.mp4](https://media.giphy.com/media/gcZoCNhAioOHj9uNQv/giphy.mp4 "giphy.mp4")
 
-Secondo Bezos, infatti, esistono due tipi di decisioni che ognuno di noi prende ogni giorno:
+`![Alt Text](`[`https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif`](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif "Gattino")`)`
+
+Secondo **Bezos**, infatti, esistono due tipi di decisioni che ognuno di noi prende ogni giorno:
 
 * Decisioni di tipo 1: quelle decisioni che non garantiscono la possibilità di tornare sui propri passi. Si tratta di quelle decisioni che ti fanno “bruciare i ponti”, una volta prese, non si torna più indietro.
 * Decisioni di tipo 2: queste sono decisioni per cui c’è il modo di tornare indietro (e non è detto che questo modo sia facile eh).
