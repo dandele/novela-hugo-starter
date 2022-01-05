@@ -1,157 +1,53 @@
 ---
-title: Why we built a company before building a product and why it worked
+title: Jeff Bezos usa un trucchetto facile facile per prendere decisioni
 date: 2017-04-30
-hero: /images/hero-6.jpg
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel apps in the U.S, along with Uber, Lyft.
+hero: ''
+excerpt: ''
 timeToRead: 3
-authors:
-  - Thiago Costa
+authors: []
 
 ---
+Jeff Bezos non è un product manager, almeno non tecnicamente, ma utilizza un framework di decision making da cui tutti i product manager potrebbero trarre beneficio.
 
-Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
+Anzi, non solo i product manager, anche tu stesso. 👇👇👇
 
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
+In breve, Bezos non si concentra su decisioni che possono essere facilmente reversibili, anzi.
 
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
+Secondo Bezos, infatti, esistono due tipi di decisioni che ognuno di noi prende ogni giorno:
 
-But it takes more than good ideas to build and grow a business. It takes people to bring them into reality. Are those people collaborating and sharing their expertise, or are they in conflict and keeping it to themselves?
+* Decisioni di tipo 1: quelle decisioni che non garantiscono la possibilità di tornare sui propri passi. Si tratta di quelle decisioni che ti fanno “bruciare i ponti”, una volta prese, non si torna più indietro.
+* Decisioni di tipo 2: queste sono decisioni per cui c’è il modo di tornare indietro (e non è detto che questo modo sia facile eh).
 
-Do they have the resources necessary to execute on their ideas? Or are they constantly under pressure to pluck only the lowest-hanging fruit through bare minimum means, while putting their greatest ambitions on the back-burner?
+Vuoi un esempio? Dare le dimissioni, vendere la tua azienda, cambiare carriera: queste sono decisioni di tipo 1.
 
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
+Avviare un side hustle, cambiare modello di pricing, offrire nuovi servizi: queste sono decisioni di tipo 2.
 
-```js
-import React from "react";
-import { graphql, useStaticQuery } from "gatsby";
-import styled from "@emotion/styled";
+Lo scrive lo stesso Bezos in una delle sue lettere agli shareholder:
 
-import * as SocialIcons from "../../icons/social";
-import mediaqueries from "@styles/media";
+“Some decisions are consequential and irreversible or nearly irreversible -- one-way doors -- and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation. If you walk through and don't like what you see on the other side, you can't get back to where you were before. We can call these Type 1 decisions.
 
-const icons = {
-  dribbble: SocialIcons.DribbbleIcon,
-  linkedin: SocialIcons.LinkedinIcon,
-  twitter: SocialIcons.TwitterIcon,
-  facebook: SocialIcons.FacebookIcon,
-  instagram: SocialIcons.InstagramIcon,
-  github: SocialIcons.GithubIcon,
-};
+But most decisions aren't like that -- they are changeable, reversible -- they're two-way doors. If you've made a sub-optimal Type 2 decision, you don't have to live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgment individuals or small groups.”
 
-const socialQuery = graphql`
-  {
-    allSite {
-      edges {
-        node {
-          siteMetadata {
-            social {
-              name
-              url
-            }
-          }
-        }
-      }
-    }
-  }
-`;
+Come possiamo applicare questa distinzione nella nostra vita?
 
-function SocialLinks({ fill = "#73737D" }: { fill: string }) {
-  const result = useStaticQuery(socialQuery);
-  const socialOptions = result.allSite.edges[0].node.siteMetadata.social;
+Ogni volta che dobbiamo prendere una decisione ci basta capire che tipo di decisione stiamo per prendere.
 
-  return (
-    <>
-      {socialOptions.map(option => {
-        const Icon = icons[option.name];
+Se è una decisione di tipo 1 allora ha senso prendere il tempo necessario, valutare diversi fattori ecc.
 
-        return (
-          <SocialIconContainer
-            key={option.name}
-            target="_blank"
-            rel="noopener"
-            data-a11y="false"
-            aria-label={`Link to ${option.name}`}
-            href={option.url}
-          >
-            <Icon fill={fill} />
-          </SocialIconContainer>
-        );
-      })}
-    </>
-  );
-}
-```
+Se è una decisione di tipo 2, invece, le cose cambiano.
 
-But it takes more than good ideas to build and grow a business. It takes people to bring them into reality. Are those people collaborating and sharing their expertise, or are they in conflict and keeping it to themselves?
+Con le decisioni di tipo 2 la cosa migliore che si può fare è decidere, buttarsi, prendere una decisione, qualsiasi essa sia ed importa poco se la decisione che si prenderà è giusta o sbagliata.
 
-# This is a primary heading
+C’è sempre un modo per ritornare indietro, per riprendere quella decisione.
 
-Do they have the resources necessary to execute on their ideas? Or are they constantly under pressure to pluck only the lowest-hanging fruit through bare minimum means, while putting their greatest ambitions on the back-burner?
+Ha senso prendere più decisioni di tipo 2 possibile per due motivi:
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
+miglioreremo la nostra efficacia nel prenderle e affrontare le conseguenze di decisioni sbagliate;
 
-But it takes more than good ideas to build and grow a business. It takes people to bring them into reality. Are those people collaborating and sharing their expertise, or are they in conflict and keeping it to themselves?
+avremo più risorse cognitive da investire nel prendere decisioni di tipo 1.
 
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
+Hai mai usato un framework di questo tipo nel prendere decisioni?
 
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
+Fammi sapere e, se vuoi, restiamo in contatto 👉
 
-## This is a secondary heading
-
-```jsx
-import React from "react";
-import { ThemeProvider } from "theme-ui";
-import theme from "./theme";
-
-export default props => (
-  <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
-);
-```
-
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
-
----
-
-Hyphens
-
----
-
-Asterisks
-
----
-
-Underscores
-
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
-
-Do they have the resources necessary to execute on their ideas? Or are they constantly under pressure to pluck only the lowest-hanging fruit through bare minimum means, while putting their greatest ambitions on the back-burner?
-
-Emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-1. First ordered list item
-2. Another item
-   ⋅⋅\* Unordered sub-list.
-3. Actual numbers don't matter, just that it's a number
-   ⋅⋅1. Ordered sub-list
-4. And another item.
-
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-- Unordered list can use asterisks
-
-* Or minuses
-
-- Or pluses
+PS: se vuoi leggere la lettera di Bezos agli shareholder, clicca sul link nel primo commento.
