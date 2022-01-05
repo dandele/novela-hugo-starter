@@ -1,7 +1,7 @@
 ---
 title: Jeff Bezos usa un trucchetto facile facile per prendere decisioni
 date: 2017-04-30
-hero: ''
+hero: "/images/risa-bezos-speedball.gif"
 excerpt: ''
 timeToRead: 3
 authors:
