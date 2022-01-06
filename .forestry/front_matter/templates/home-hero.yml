@@ -7,11 +7,11 @@ fields:
   config:
     required: false
   label: Heading
-  description: The text displayed in the hero
+  description: Questa è una hero di prova
 - name: maxWidthPX
   type: number
   label: Max Width
-  description: The maximum possible width of the hero (in pixels)
+  description: '1000'
   default: '652'
   config:
     required: true
