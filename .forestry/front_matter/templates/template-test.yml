@@ -1,0 +1,27 @@
+---
+label: template test
+hide_body: false
+fields:
+- type: field_group
+  name: hero
+  label: hero
+  fields:
+  - type: text
+    name: heading
+    label: heading
+  - type: number
+    name: maxWidthPX
+    label: maxWidthPX
+- type: field_group
+  name: seo
+  label: seo
+  fields:
+  - type: file
+    name: image
+    label: image
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: maxWidthPX
+  label: maxWidthPX
