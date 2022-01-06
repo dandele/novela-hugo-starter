@@ -21,6 +21,7 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+  hidden: true
 - name: timeToRead
   type: number
   label: Read Time
