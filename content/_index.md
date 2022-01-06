@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Ciao a tutti
+  heading: Ciao 👋 sono Daniele D'Amico e questo è il mio blog
   maxWidthPX: 652
 seo:
   image: "/images/hero-2.jpg"
@@ -9,4 +9,3 @@ maxWidthPX: 645
 draft: true
 
 ---
-prova provissima provesca
