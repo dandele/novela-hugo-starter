@@ -34,9 +34,10 @@ fields:
 - name: hero
   type: file
   config:
-    maxSize: 250
-  label: Hero Image
+    maxSize: 64
+  label: Hero Image post
 - name: authors
   type: tag_list
   default: []
   label: Authors
+  hidden: true
